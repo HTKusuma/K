@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <test name="Default test(failed)(failed)">
+    <classes>
+      <class name="com.learnautomation.testcases.VerifyAmazonSignInTestcase">
+        <methods>
+          <include name="setUpSuite"/>
+          <include name="tearDownMethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.learnautomation.testcases.VerifyAmazonSignInTestcase -->
+      <class name="com.learnautomation.testcases.VerifyAmazonHomePageTestcase">
+        <methods>
+          <include name="VerifyElementsOfHomePage"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.learnautomation.testcases.VerifyAmazonHomePageTestcase -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

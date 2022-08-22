@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Setting up the reports and Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Setting Done----> Test can be Started]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3" started-at="2022-08-17T14:43:24Z" finished-at="2022-08-17T14:43:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3" started-at="2022-08-17T14:43:24Z" finished-at="2022-08-17T14:43:24Z">
+      <class name="com.learnautomation.testcases.VerifyAmazonHomePageTestcase">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.learnautomation.testcases.VerifyAmazonHomePageTestcase@3f200884]" name="setUpSuite" is-config="true" duration-ms="513" started-at="2022-08-17T20:13:23Z" finished-at="2022-08-17T20:13:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the reports and Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Setting Done----> Test can be Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+      </class> <!-- com.learnautomation.testcases.VerifyAmazonHomePageTestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
